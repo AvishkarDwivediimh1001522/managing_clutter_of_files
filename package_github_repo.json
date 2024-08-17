@@ -1,0 +1,14 @@
+{
+    "name": "lect_93_managing_clutter_of_folder",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "Main_file_github_repo.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Avishkar Dwivedi",
+    "license": "ISC",
+    "description": ""
+  }
+  
